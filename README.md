@@ -12,7 +12,7 @@ theese scripts were made for educational purposes only!!
 
 
 
-3.the server must be active for the client to conect to it
+3.the server must be active for the client to connect to it
 
 
 
