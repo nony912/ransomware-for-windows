@@ -2,7 +2,7 @@
 theese scripts were made for educational purposes only!!
 
 
-replace 'host ip' in client.py and server-for-isH.py with the device's ip address
+replace 'host ip' in client.py and server-for-isH.py with the device's private ip address
 
 
 
