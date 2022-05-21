@@ -32,6 +32,10 @@ def bind_socket():
 
     except socket.error as msg:
         print("Socket Binding error" + str(msg) + "\n" + "Retrying...")
+        conn.close()
+        s.close()
+        sys.exit()
+        serversocket.close()
         bind_socket()
 
 
