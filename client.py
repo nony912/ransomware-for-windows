@@ -4,7 +4,7 @@ import subprocess
 import time
 
 s = socket.socket()
-host = '192.168.1.8'
+host = 'host ip'
 port = 9999
 time.sleep(2)
 
